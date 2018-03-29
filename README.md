@@ -7,6 +7,8 @@ Learn has a deep integration with Git and GitHub. We need to teach you just enou
     The video accompanying this lab is best enjoyed on Learn.co<br>
 </video>
 
+**_Watch until 8:07_**
+
 ## Topics Covered.
 
 1. Forking a repository GitHub.
